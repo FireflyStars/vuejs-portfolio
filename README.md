@@ -15,7 +15,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/fireflystars/vuejs-tailwindcss-portfolio.git
+git clone https://github.com/fireflystars/vuejs-portfolio.git
 ```
 
 3. Open the project folder:
